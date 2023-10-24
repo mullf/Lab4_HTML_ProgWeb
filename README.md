@@ -458,8 +458,9 @@ nav a:hover {
 ### 1. Tambahkan Layout untuk menu About
 ### => buat single layout yang berisi deskripsi, portfolio, dll
 
-
+![prak4_html12](https://github.com/mullf/Lab4_HTML_ProgWeb/assets/115521049/d8feb497-118a-4595-bf39-a452556fd8e5)
 
 ### 2. Tambahkan layout untuk menu Contact
 ### => yang berisi form isian: nama, email, message, dll
 
+![prak4_html13](https://github.com/mullf/Lab4_HTML_ProgWeb/assets/115521049/e1a80580-b9cd-42df-9ee4-238e5886eb50)
