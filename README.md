@@ -1,4 +1,4 @@
-# praktikumweb4
+# Praktikum Web 4
 ## Langkah-langkah Praktikum
 - Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut
 ```
